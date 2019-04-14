@@ -42,10 +42,7 @@ public class APIRequestLoader<T: APIRequest> {
             completionHandler(nil,error)
         }
     }
-    public func hardCodedData() -> String {
-        return "hardCodedString"
+    public func version_method_1_0_3() -> String{
+    return "1.0.3 method"
     }
-   
-
-
 }

@@ -1,0 +1,26 @@
+{
+  "name": "MyFramework",
+  "version": "1.0.0",
+  "summary": "A short description of MyFramework.",
+  "description": "A complete description of MyFramework",
+  "platforms": {
+    "ios": "12.1"
+  },
+  "homepage": "http://EXAMPLE/MyFramework",
+  "license": "MIT",
+  "authors": {
+    "Ali Akhtar": "aliakhtarcs11020@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/aliakhtar49/MyFramework.git",
+    "commit": "2c360b814bfb2c6aa233e72df892c71c84412b22"
+  },
+  "source_files": "MyFramework",
+  "exclude_files": "Classes/Exclude",
+  "swift_version": "4.2",
+  "dependencies": {
+    "Alamofire": [
+
+    ]
+  }
+}

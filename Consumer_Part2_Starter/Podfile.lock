@@ -1,0 +1,22 @@
+PODS:
+  - MyFramework (1.0.0)
+
+DEPENDENCIES:
+  - MyFramework (from `https://github.com/aliakhtar49/MyFramework.git`, tag `1.0.3`)
+
+EXTERNAL SOURCES:
+  MyFramework:
+    :git: https://github.com/aliakhtar49/MyFramework.git
+    :tag: 1.0.3
+
+CHECKOUT OPTIONS:
+  MyFramework:
+    :git: https://github.com/aliakhtar49/MyFramework.git
+    :tag: 1.0.3
+
+SPEC CHECKSUMS:
+  MyFramework: 2ffe004b8f79a1fcdaa8f83220e262aafe2daf41
+
+PODFILE CHECKSUM: 6d91c4615dce05e3cd97e1d3c1d15bc1bb3fad9c
+
+COCOAPODS: 1.6.1
