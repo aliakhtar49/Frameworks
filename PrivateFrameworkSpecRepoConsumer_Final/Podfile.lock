@@ -1,0 +1,20 @@
+PODS:
+  - ModuleExtension (1.0.0)
+  - ModuleNetwork (1.0.0)
+
+DEPENDENCIES:
+  - ModuleExtension
+  - ModuleNetwork
+
+SPEC REPOS:
+  https://github.com/aliakhtar49/PrivateFrameworkSpecRepo.git:
+    - ModuleExtension
+    - ModuleNetwork
+
+SPEC CHECKSUMS:
+  ModuleExtension: f0b47710ce1744fda73bcdcd5d56039c25aabb52
+  ModuleNetwork: bcef5873e2e1218702abb1a6f51099472304200c
+
+PODFILE CHECKSUM: 398c4f52eacb6d2f67999f0f6a5bbb0a162f6f68
+
+COCOAPODS: 1.6.1

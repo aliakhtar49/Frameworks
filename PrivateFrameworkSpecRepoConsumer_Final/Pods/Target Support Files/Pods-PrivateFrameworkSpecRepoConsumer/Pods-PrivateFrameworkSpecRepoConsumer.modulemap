@@ -1,0 +1,6 @@
+framework module Pods_PrivateFrameworkSpecRepoConsumer {
+  umbrella header "Pods-PrivateFrameworkSpecRepoConsumer-umbrella.h"
+
+  export *
+  module * { export * }
+}
